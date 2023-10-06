@@ -1,0 +1,13 @@
+16:50:47.621 D2X-Rebirth v0.61\x20\x30.60.0-beta2-2122-ge3faab0899bc  Vertigo Enhanced  Sep 29 2022 12:10:46
+16:50:47.621 This is a MODIFIED version of Descent 2, based on Full Version v1.2.
+16:50:47.621 Copyright (C) 1994-1996 Parallax Software Corporation
+16:50:47.621 DESCENT is a trademark of Interplay Productions, Inc.
+16:50:47.621 Copyright (C) 1999 Peter Hawkins, 2002 Bradley Bell, 2005-2013 Christian Beckhaeuser, 2013-2017 Kp
+16:50:47.657 Using SDL_mixer library v1.2.12
+16:50:48.314 sdl-joystick: 1 joysticks
+16:50:48.314 sdl-joystick 0: USB  ADAPTOR
+16:50:48.314 sdl-joystick: 4 axes
+16:50:48.314 sdl-joystick: 8 buttons
+16:50:48.314 sdl-joystick: 1 hats
+16:50:48.314 sdl-joystick: 4 axes (total)
+16:50:48.314 sdl-joystick: 20 buttons (total)
